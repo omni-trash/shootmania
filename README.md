@@ -1,2 +1,4 @@
 # shootmania
-Schootmania Stuff
+Shootmania Stuff
+
+https://www.maniaplanet.com/
