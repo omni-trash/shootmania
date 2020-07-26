@@ -14,4 +14,6 @@ Save the Skins into your Documents Folder. After that you can select the Model i
 C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Vehicles\ArenaPlayer
 ```
 
-MDX.Skin.Pack.Gbx by Naruto Uzumaki <3 ;-) many thanks
+MDX.Skin.Pack.Gbx by "Naruto Uzumaki" <3 ;-) many thanks
+
+Locator Files are to make Skins public available.
