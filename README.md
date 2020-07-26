@@ -16,4 +16,4 @@ C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Vehicles\ArenaPlayer
 
 MDX.Skin.Pack.Gbx by "Naruto Uzumaki" <3 ;-) many thanks
 
-Locator Files are to make Skins public available.
+Locator Files (*.loc) are to make Skins public available. They are Text Files with the URI to download the Model.
