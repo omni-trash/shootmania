@@ -27,7 +27,7 @@ Sounds pretty simple, but stop. There are three situations where you can have Mo
 
 P2P has to be enable and configured in the Maniaplanet Launcher, and you has to configure your Firewall too.
 
-The dedicated Server use another Format (`server/file.zip?dl=1` instead of `http://server/file.zip`).
+The dedicated Server use another Format (`server/file.zip?dl=1` instead of `http://server/file.zip`) and the Files are in another Location.
 
 In the case of Shootmania Online Locator Files will not work, maybe it is a security risk to download content from somewhere.
 
