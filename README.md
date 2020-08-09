@@ -23,13 +23,13 @@ Sounds pretty simple, but stop. There are three situations where you can have Mo
 
 * LAN Session (P2P)
 * Dedicated Server (Your server)
-* Shootmania Online
+* Shootmania Online (That's what we want)
 
-P2P has to be enable and configured in the Maniaplanet Launcher, and you has to configure your Firewall too.
+P2P has to be enabled and configured in the Maniaplanet Launcher, and you has to configure your Firewall too.
 
 The dedicated Server use another Format (`server/file.zip?dl=1` instead of `http://server/file.zip`) and the Files are in another Location.
 
-In the case of Shootmania Online Locator Files will not work, maybe it is a security risk to download content from somewhere.
+In the case of Shootmania Online Locator Files will work, if Locator and Upload-Links (direct downloads) are enabled (both Options are in the Launcher under Help), and if you allow custom Skins (this Option is in your Game Settings if you are connected, otherwise you dont see the custom Skins from other Players). If you have the Steam Version you can open the Launcher, if you start the Game with Steam, not the Icon on the Desktop.
 
 Some Links about the Topic Player Skins and Locator Files
 
