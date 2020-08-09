@@ -11,7 +11,7 @@ The Files are simple zip Files or gbx Files (Nadeo Game Box). Dont ask me how to
 Save the Skins into your Documents Folder. After that you can select the Model in your Profile Settings (Shootmania).
 
 ```
-C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Vehicles\ArenaPlayer
+C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Models\ArenaPlayer\
 ```
 
 MDX.Skin.Pack.Gbx by "Naruto Uzumaki" <3 ;-) many thanks
