@@ -34,6 +34,7 @@ In the case of Shootmania Online Locator Files will not work, maybe it is a secu
 Some Links about the Topic Player Skins and Locator Files
 
 * https://doc.maniaplanet.com/customization/create-a-player-skin
+* https://doc.maniaplanet.com/customization/using-custom-content
 * https://forum.maniaplanet.com/viewtopic.php?t=44084
 
 
