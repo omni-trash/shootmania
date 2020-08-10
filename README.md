@@ -15,7 +15,7 @@ Save the Skins into your Documents Folder. After that you can select the Model i
 C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Models\ArenaPlayer\
 ```
 
-MDX.Skin.Pack.Gbx by "Naruto Uzumaki" <3 ;-) many thanks
+MDX.Skin.Pack.Gbx by "Naruto Uzumaki" <3 many thanks, based on [SintelSample](http://www.maniapark.com/ressource.php?id=1470)
 
 Locator Files (*.loc) are to make Skins public available. They are Text Files with the URL to download the Model.
 
