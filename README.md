@@ -15,7 +15,7 @@ Save the Skins into your Documents Folder. After that you can select the Model i
 C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Models\ArenaPlayer\
 ```
 
-[MDX.Skin.Pack.Gbx](./ArenaPlayer/) by "Naruto Uzumaki" <3 Many Thanks ;-)
+[MDX.Skin.Pack.Gbx](./ArenaPlayer/) by "Naruto" <3 and "Musashi", Many Thanks ;-)
 
 based on [SintelSample](http://www.maniapark.com/ressource.php?id=1470)
 
