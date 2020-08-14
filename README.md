@@ -17,7 +17,7 @@ C:\Users\<Your Name>\Documents\ManiaPlanet\Skins\Models\ArenaPlayer\
 
 [MDX.Skin.Pack.Gbx](./ArenaPlayer/) by "Naruto" <3 and "Musashi", Many Thanks ;-)
 
-based on [SintelSample](http://www.maniapark.com/ressource.php?id=1470)
+based on [SintelSample](http://www.maniapark.com/ressource.php?id=1470) / [Sintel Smile](http://www.maniapark.com/ressource.php?id=1473)
 
 Locator Files (*.loc) are to make Skins public available. They are Text Files with the URL to download the Model.
 
